@@ -1,2 +1,8 @@
 # raspi-facetracking
-raspberry pi 3 face tracking
+raspberry pi face tracking
+
+# Python Libraries
+cv2
+face_recognition
+numpy
+pickle
