@@ -1,5 +1,6 @@
 # raspi-facetracking
-raspberry pi face tracking
+raspberry pi 3 face tracking
+student research project
 
 <b>Python Libraries</b><br>
 cv2<br>
